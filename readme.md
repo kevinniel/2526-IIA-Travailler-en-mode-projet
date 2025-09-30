@@ -40,33 +40,52 @@ Pour chacune des tâches, nous allons devoir :
 - Statut
 - Quels autres tâches sont necessaires pour démarrer ma tâche, dans quel ordre je dois faire cette tâche ?
 
+
+
 12€ / heure = 420€
 - Projet de site vitrine (35h)
-    - Choisir les technologies (1h)
+    - (ID) Choisir les technologies (1h)
         - Choisir un hébergeur
         - Le Front
         - Le Back
         - Analytics
-    - Maquettage (14h)
+    - (ID) Maquettage (14h)
         - Zonning => c'est le positionnement des éléments sur une page
         - Wireframe => c'est un zonning cliquable (qui permet de naviguer d'une page à une autre)
         - Maquette => la version graphique du zonning
         - Prototype => c'est l'équivalent du wireframe, mais avec des maquettes graphiques finalisées.
-    - Arborescence (2h)
+    - (ID) Arborescence (2h)
         - Définition des pages
         - Définition du contenu de chaque page
-    - Concevoir la BDD (0h)
+    - (ID) Concevoir la BDD (0h)
         - Dictionnaire de données
         - MCD => on représente les entités et leurs relations (sans PK/FK)
         - MLD => on représente les FK & PK
         - MPD => on vient tout typer de manière très précise
-    - Développer le site (14h)
+    - (ID) Développer le site (14h)
         - Front
         - Back
-    - Recettage (4h)
+    - (ID) Recettage (4h)
         - Mettre en production
         - Tester
         - Valider
+
+
+1. fixer une "plage horaire" plutôt que des heures fixes
+2. Qu'est-ce qu'on met dans quel sens ?
+
+Antécédant = quelle tâche doit-on faire avant les autres ?
+
+
+| Tâche | Durée | Antécédants | 
+| --- | --- | --- | 
+| (ID)  | min-max | (ID),(ID) | 
+
+
+
+
+
+
 
 
 

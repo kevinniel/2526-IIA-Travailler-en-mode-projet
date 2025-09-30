@@ -1,6 +1,8 @@
 # Travailler en mode projet
 
-<a href="cours/1-wbs.md" title="Work Breakdown Structure (WBS)">Work Breakdown Structure (WBS)</a>
+## Cours
+
+1. <a href="cours/wbs.md" title="Work Breakdown Structure (WBS)">Work Breakdown Structure (WBS)</a>
 
 
 

@@ -91,6 +91,33 @@ Faire un schéma, avec des ronds qui représentent l'enchainement des tâches
 
 (A, C) => B => D => E
 
+------------------------
+
+Il y a 2 marges différentes : 
+
+- **marge "totale"** : elle représente le retard que peut prendre la réalisation d'une tâche sans
+impacter la date de fin du projet (à condition qu'elle ait commencé à sa date le plus tôt)
+- **marge "libre"** : elle correspond au retard que peut prendre la réalisation d'une tâche sans
+impact sur la date au plus tôt des tâches suivantes (à condition qu'elle ait débuté à sa date le plus
+tôt).
+
+Formule de la marge totale : 
+```
+Date au plus tard de l'étape suivante - Durée de la tâche - Date au plus tôt de l'étape précédente
+```
+
+Formule de la marge libre : 
+```
+Date au plus tôt de l'étape suivante - Durée de la tâche -  Date au plus tôt de l'étape précédente
+```
+
+
+
+
+
+
+
+
 
 
 ------------------------

@@ -40,3 +40,24 @@ Je veux qu'il soit accessible
 <img src="sources/wbs.png">
 
 ## TODO...
+
+### Organisation des tâches : Durée & Antécédants
+
+| Tâche | Durée | Antécédants | 
+| --- | --- | --- | 
+| A | 1-1 |  | 
+| B | 14-18 | A,C | 
+| C | 2-4 |  | 
+| D | 14-21 | B | 
+| E | 4-7 | D | 
+
+### Visualisation de l'ordonnancement des tâches
+
+### Visualisation des durées entre les tâches
+
+### Visualisation des dates minimales de début de tâche
+
+### Visualisation des dates maximales de début de tâche
+
+### Quel est la marge de manoeuvre
+

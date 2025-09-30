@@ -2,7 +2,8 @@
 
 ## Cours
 
-1. <a href="cours/wbs.md" title="Work Breakdown Structure (WBS)">Work Breakdown Structure (WBS)</a>
+1. <a href="cours/definitions.md" title="Définitions">Définitions</a>
+2. <a href="cours/wbs.md" title="Work Breakdown Structure (WBS)">Work Breakdown Structure (WBS)</a>
 
 
 
@@ -39,30 +40,33 @@ Pour chacune des tâches, nous allons devoir :
 - Statut
 - Quels autres tâches sont necessaires pour démarrer ma tâche, dans quel ordre je dois faire cette tâche ?
 
-
-- Définir les tâches
-    - Choisir les technologies
-        - L'OS sur lequel le site sera hébergé
+12€ / heure = 420€
+- Projet de site vitrine (35h)
+    - Choisir les technologies (1h)
+        - Choisir un hébergeur
         - Le Front
-            - HTML
-            - CSS
-            - JS
         - Le Back
-            - PHP
-            - SQL
         - Analytics
-            - GA4 - Google Analytics 4
-            - GTM - Goole Tag Manager
-    - Maquettage
-    - Choisir un hébergeur
-    - Définition de l'arborescence des pages
-    - Définition du contenu des pages
-    - Concevoir la BDD
-    - Développer le site
-    - Mettre en production
-    - Tester
-    - Valider
-- répartition des tâches et des rôles
+    - Maquettage (14h)
+        - Zonning => c'est le positionnement des éléments sur une page
+        - Wireframe => c'est un zonning cliquable (qui permet de naviguer d'une page à une autre)
+        - Maquette => la version graphique du zonning
+        - Prototype => c'est l'équivalent du wireframe, mais avec des maquettes graphiques finalisées.
+    - Arborescence (2h)
+        - Définition des pages
+        - Définition du contenu de chaque page
+    - Concevoir la BDD (0h)
+        - Dictionnaire de données
+        - MCD => on représente les entités et leurs relations (sans PK/FK)
+        - MLD => on représente les FK & PK
+        - MPD => on vient tout typer de manière très précise
+    - Développer le site (14h)
+        - Front
+        - Back
+    - Recettage (4h)
+        - Mettre en production
+        - Tester
+        - Valider
 
 
 

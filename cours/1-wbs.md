@@ -24,7 +24,7 @@ Le WBS est construit de manière hiérarchique :
 
 Chaque niveau permet d’affiner la granularité et de mieux répartir le travail.
 
-<img src="sources/1.webp" >
+<img src="../sources/1.webp" >
 
 ## Informations clés à documenter pour chaque tâche
 

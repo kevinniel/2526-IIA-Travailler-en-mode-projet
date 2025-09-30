@@ -39,7 +39,7 @@ Je veux qu'il soit accessible
 
 <img src="sources/wbs.png">
 
-## TODO...
+## PERT
 
 ### Organisation des tâches : Durée & Antécédants
 

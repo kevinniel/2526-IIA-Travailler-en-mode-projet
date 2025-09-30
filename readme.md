@@ -83,14 +83,17 @@ Antécédant = quelle tâche doit-on faire avant les autres ?
 | D | 14-21 | B | 
 | E | 4-7 | D | 
 
+------------------------
+
+J'ai besoin de visualiser les choses
+
+Faire un schéma, avec des ronds qui représentent l'enchainement des tâches
+
+(A, C) => B => D => E
 
 
 
-
-
-
-
-
+------------------------
 
 ## Exemple 1 : Faire un nouveau site internet vitrine, pour présenter mon activité
 

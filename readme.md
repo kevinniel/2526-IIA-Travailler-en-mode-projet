@@ -14,6 +14,17 @@ En résumé, le WBS est le plan détaillé et visuel du projet, servant de réf�
 - Facilite la communication entre équipes.
 - Permet un suivi efficace des délais, budgets et livrables.
 - Sert de référence pour mesurer la progression et identifier les problèmes.
+- Sert de base au planning (diagramme de Gantt, estimation des charges, suivi d’avancement).
+
+### Notion de niveaux hiérarchiques
+
+Le WBS est construit de manière hiérarchique :
+
+- Niveau 1 : le projet dans son ensemble.
+- Niveau 2 : grands lots ou phases du projet.
+- Niveau 3 : sous-lots, tâches détaillées et livrables associés.
+
+Chaque niveau permet d’affiner la granularité et de mieux répartir le travail.
 
 ### Informations clés à documenter pour chaque tâche
 
@@ -32,7 +43,12 @@ En résumé, le WBS est le plan détaillé et visuel du projet, servant de réf�
 5. Statut de la tâche
     - Exemple de statuts : ouverte, en cours, terminée.
     - Utile pour suivre l’avancement et repérer des blocages.
-
+6. Approbations et jalons
+- Certaines tâches nécessitent une validation (client, manager, comité).
+- Les jalons marquent l’achèvement d’une étape clé dans le projet.
+7. Lien avec les livrables
+- Chaque tâche doit conduire à un résultat concret : document, prototype, module, validation d’étape.
+- Cela garantit la cohérence entre tâches et objectifs du projet.
 
 
 

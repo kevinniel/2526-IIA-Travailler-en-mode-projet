@@ -24,6 +24,8 @@ Pour chaque tâche : durée et dépendances. Réaliser le tableau d'antériorit�
 - Reliez-les selon leurs antécédents.
 - Ajoutez des tâches fictives (durée = 0) quand une tâche a plusieurs antécédents.
 
+<img src="sources/pert-cours.jpg">
+
 ### 4. Calculez les dates au plus tôt
 
 - Début au plus tôt d’une tâche = max(fin au plus tôt de ses antécédents)

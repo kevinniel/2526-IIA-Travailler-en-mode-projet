@@ -53,7 +53,7 @@ Je veux qu'il soit accessible
 
 ### Visualisation de l'ordonnancement des tâches
 
-<img src="sources/pert-1.png">
+<img src="sources/pert-1.jpg">
 
 ### Visualisation des durées entre les tâches
 

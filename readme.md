@@ -1,8 +1,6 @@
 # Travailler en mode projet
 
-## Work Breakdown Structure (WBS)
-
-<a href="./1-wbs.md">lien du cours</a>
+<a href="./1-wbs.md" title="Work Breakdown Structure (WBS)">Work Breakdown Structure (WBS)</a>
 
 
 

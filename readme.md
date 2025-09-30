@@ -4,7 +4,42 @@
 - Méthodes agiles
 - GANTT & PERT
 
-## 
+## Work Breakdown Structure (WBS)
+
+Le principe est de découpé un besoin en tâches et en sous-tâches.
+
+Pour chacune des tâches, nous allons devoir : 
+- Description de la tâche
+- Délai
+- Responsable de la tâche
+- Prix
+- Statut
+- Quels autres tâches sont necessaires pour démarrer ma tâche, dans quel ordre je dois faire cette tâche ?
+
+
+- Définir les tâches
+    - Choisir les technologies
+        - L'OS sur lequel le site sera hébergé
+        - Le Front
+            - HTML
+            - CSS
+            - JS
+        - Le Back
+            - PHP
+            - SQL
+        - Analytics
+            - GA4 - Google Analytics 4
+            - GTM - Goole Tag Manager
+    - Maquettage
+    - Choisir un hébergeur
+    - Définition de l'arborescence des pages
+    - Définition du contenu des pages
+    - Concevoir la BDD
+    - Développer le site
+    - Mettre en production
+    - Tester
+    - Valider
+- répartition des tâches et des rôles
 
 
 

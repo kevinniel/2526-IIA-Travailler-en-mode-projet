@@ -51,11 +51,7 @@ Je veux qu'il soit accessible
 | D | 14-21 | B | 
 | E | 4-7 | D | 
 
-### Visualisation de l'ordonnancement des tâches
-
-<img src="sources/pert-1.jpg">
-
-### Visualisation des durées entre les tâches
+### Visualisation de l'ordonnancement des tâches et des durées entre les tâches
 
 <img src="sources/pert-2.png">
 

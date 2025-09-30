@@ -44,8 +44,8 @@ Chaque niveau permet d’affiner la granularité et de mieux répartir le travai
     - Exemple de statuts : ouverte, en cours, terminée.
     - Utile pour suivre l’avancement et repérer des blocages.
 6. Approbations et jalons
-- Certaines tâches nécessitent une validation (client, manager, comité).
-- Les jalons marquent l’achèvement d’une étape clé dans le projet.
+    - Certaines tâches nécessitent une validation (client, manager, comité).
+    - Les jalons marquent l’achèvement d’une étape clé dans le projet.
 7. Lien avec les livrables
-- Chaque tâche doit conduire à un résultat concret : document, prototype, module, validation d’étape.
-- Cela garantit la cohérence entre tâches et objectifs du projet.
+    - Chaque tâche doit conduire à un résultat concret : document, prototype, module, validation d’étape.
+    - Cela garantit la cohérence entre tâches et objectifs du projet.

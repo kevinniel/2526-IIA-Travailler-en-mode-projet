@@ -16,3 +16,10 @@ Faire les 6 étapes du PERT !
 | J     | 1     | G, I          |
 | K     | 2     | G             |
 | L     | 3     | J, K          |
+
+
+Objectifs : 
+
+- Refaire tout le diagramme de PERT
+- Calculer toutes les marges
+- Identifier le chemin critique

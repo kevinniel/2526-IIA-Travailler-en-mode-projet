@@ -9,7 +9,7 @@
 ## TP
 
 1. <a href="tp1.md" title="Conception de site vitrine">Conception de site vitrine</a>
-2. <a href="tp2.md" title="TP 2 - pratique du WBS + PERT">TP 2 - pratique du WBS + PERT</a> 
+2. <a href="tp2.md" title="TP 2 - pratique du PERT">TP 2 - pratique du PERT</a> 
 
 
 ### TRACE

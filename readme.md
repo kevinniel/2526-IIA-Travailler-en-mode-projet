@@ -4,6 +4,7 @@
 
 1. <a href="cours/definitions.md" title="Définitions">Définitions</a>
 2. <a href="cours/wbs.md" title="Work Breakdown Structure (WBS)">Work Breakdown Structure (WBS)</a>
+2. <a href="cours/pert.md" title="PERT">PERT</a>
 
 ## TP
 

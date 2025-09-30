@@ -53,11 +53,30 @@ Je veux qu'il soit accessible
 
 ### Visualisation de l'ordonnancement des tâches
 
+<img src="sources/pert-1.png">
+
 ### Visualisation des durées entre les tâches
+
+<img src="sources/pert-2.png">
 
 ### Visualisation des dates minimales de début de tâche
 
+<img src="sources/pert-3.png">
+
 ### Visualisation des dates maximales de début de tâche
 
-### Quel est la marge de manoeuvre
+<img src="sources/pert-4.png">
 
+### Quels sont les marges
+
+| Tâche | Marge Libre | Marge Totale | 
+| --- | --- | --- | 
+| A | 4 | 4 | 
+| B | 0 | 0 | 
+| C | 1 | 1 | 
+| D | 0 | 0 | 
+| E | 0 | 0 | 
+
+### Trouver le chemin critique
+
+B => D => E

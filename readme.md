@@ -103,13 +103,23 @@ tôt).
 
 Formule de la marge totale : 
 ```
-Date au plus tard de l'étape suivante - Durée de la tâche - Date au plus tôt de l'étape précédente
+Date au plus tard de fin de la tâche – Date au plus tôt de fin de la tâche
 ```
 
 Formule de la marge libre : 
 ```
-Date au plus tôt de l'étape suivante - Durée de la tâche -  Date au plus tôt de l'étape précédente
+Date au plus tôt de début du successeur – Date au plus tôt de fin de la tâche
 ```
+
+mettre ça dans un tableau : 
+
+| Tâche | Marge Libre | Marge Totale | 
+| --- | --- | --- | 
+| A | XXX | XXX | 
+| B | XXX | XXX | 
+| C | XXX | XXX | 
+| D | XXX | XXX | 
+| E | XXX | XXX | 
 
 
 
@@ -152,3 +162,23 @@ Je veux qu'il soit accessible
 - voir des exemples 
 - identifier les éléments d'une charte graphique
 - Hébergement
+
+
+
+
+EXO : 
+Faire les 6 étapes du PERT !
+| Tâche | Durée | Prédécesseurs |
+| ----- | ----- | ------------- |
+| A     | 3     | -             |
+| B     | 4     | A             |
+| C     | 6     | A             |
+| D     | 2     | B             |
+| E     | 5     | B             |
+| F     | 3     | C             |
+| G     | 4     | D, F          |
+| H     | 2     | E             |
+| I     | 3     | F, H          |
+| J     | 1     | G, I          |
+| K     | 2     | G             |
+| L     | 3     | J, K          |

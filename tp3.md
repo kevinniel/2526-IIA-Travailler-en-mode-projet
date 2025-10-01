@@ -66,3 +66,23 @@ Le client veut le travail réalisé le plus rapidement possible.
 | F     | Ajouter le tracking (GA4, Pixel)          | 1             | B, C, D |
 | G     | Tests rapides (commande test, responsive) | 2             | E, F    |
 | H     | Mise en ligne                             | 1             | G       |
+
+## CARTIER
+
+Cartier souhaite mettre en ligne un mini-catalogue vitrine (quelques produits, sans tunnel de paiement complet) avec un formulaire de prise de contact. Objectif : publier rapidement une sélection produit soignée, traçable et SEO-ready. Ca doit être mis en place avant Noël.
+
+| Tâche | Intitulé                                                   | Durée | Prédécesseurs |
+| ----- | ---------------------------------------------------------- | ----: | ------------- |
+| A     | Définir la structure (catégories, fiches, champs)          |     2 | -             |
+| B     | Préparer contenus textes (titres, descriptions, métas)     |     3 | A             |
+| C     | Shooting/retouche photos produits (sélection courte)       |     4 | A             |
+| D     | Maquette rapide (listing + fiche produit + contact)        |     2 | A             |
+| E     | Mise en place CMS léger / collection (ex : Shopify simple) |     2 | A             |
+| F     | Intégration listing (grille, tri, filtres simples)         |     3 | D, E          |
+| G     | Intégration fiche produit (galerie, détails, variantes)    |     3 | D, E          |
+| H     | Import des contenus & médias (textes B + photos C)         |     2 | B, C, G       |
+| I     | Formulaire contact/devis (envoi mail + stockage)           |     2 | D, E          |
+| J     | Tracking & consent (GA4, TMS/CMP basique)                  |     1 | F, G, I       |
+| K     | SEO basique (métas, balises, sitemap, schema.org)          |     2 | B, F, G       |
+| L     | Tests & corrections (mobile, perfs légères, formulaires)   |     3 | H, I, J, K    |
+| M     | Mise en ligne mini-catalogue                               |     1 | L             |

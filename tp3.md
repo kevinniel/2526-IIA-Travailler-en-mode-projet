@@ -46,5 +46,5 @@ Optimisez le projet pour qu'il coûte le moins cher possible, et déterminez le 
 | AA    | Préparation infra & déploiement (CI/CD, cloud)       | 8     | E, C                            |
 | AB    | Analytics & consent (GA4, TMS, CMP, events)          | 5     | U, Q                            |
 | AC    | Formation équipes e-commerce & support               | 4     | Z                               |
-| AD    | Go-Live                                              | 1     | Z, AA, AB, AC                   |
+| AD    | Go-Live                                              | 1     | AA, AB, AC                   |
 | AE    | Hypercare & stabilisation post-lancement             | 10    | AD                              |

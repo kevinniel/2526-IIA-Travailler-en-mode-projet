@@ -1,6 +1,6 @@
 # TP3 
 
-Gérer le projet suivant dans GanttProject.
+Gérer les projets suivant dans GanttProject.
 
 ## LVMH
 
@@ -48,3 +48,20 @@ Optimisez le projet pour qu'il coûte le moins cher possible, et déterminez le 
 | AC    | Formation équipes e-commerce & support               | 4     | Z                               |
 | AD    | Go-Live                                              | 1     | AA, AB, AC                   |
 | AE    | Hypercare & stabilisation post-lancement             | 10    | AD                              |
+
+
+## HERMES
+
+Hermès souhaite mettre en place un tunnel de vente simple et rapide pour tester un nouveau produit en ligne.
+L’objectif est de créer un parcours client fluide (landing → produit → paiement), sans complexité technique, en un minimum de temps.
+
+| Tâche | Durée                                     | Prédécesseurs |         |
+| ----- | ----------------------------------------- | ------------- | ------- |
+| A     | Définir le parcours client                | 1             | -       |
+| B     | Créer la landing page                     | 2             | A       |
+| C     | Créer la page produit                     | 2             | A       |
+| D     | Créer la page panier & checkout           | 2             | B, C    |
+| E     | Configurer le paiement                    | 1             | D       |
+| F     | Ajouter le tracking (GA4, Pixel)          | 1             | B, C, D |
+| G     | Tests rapides (commande test, responsive) | 2             | E, F    |
+| H     | Mise en ligne                             | 1             | G       |

@@ -116,3 +116,30 @@ Durée du projet maximale : 14 mois à partir de ce jour.
 | O     | CI/CD & préparation déploiement (environnements, monitoring) |    15 | C                   |
 | P     | Go-Live                                                      |     2 | N, O                |
 | Q     | Hypercare & stabilisation                                    |    15 | P                   |
+
+## Des maladies chroniques en perspective
+
+Plusieurs maladies ont eu lieues durant l'année, voici les dates concernées pour chaque personnes : 
+
+Mahmoud
+- 02/03/2026 → 01/08/2026
+
+Ylan
+- 12/01/2026 → 16/01/2026
+- 08/07/2026 → 26/07/2026
+
+Virgile
+- 22/12/2025 → 02/01/2026
+- 16/05/2026 → 20/05/2026
+- 05/09/2026 → 09/09/2026
+
+Rémi
+- 02/01/2026 → 05/01/2026
+- 10/04/2026 → 30/04/2026
+- 01/08/2026 → 19/08/2026
+
+Clément
+- 24/12/2025 → 31/12/2025
+- 08/03/2026 → 12/03/2026
+- 27/06/2026 → 01/07/2026
+- 22/08/2026 → 02/09/2026

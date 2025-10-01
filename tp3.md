@@ -91,3 +91,27 @@ Cartier souhaite mettre en ligne un mini-catalogue vitrine (quelques produits, s
 
 Les employés se rebellent parce que vous n'avez pas gérer les jours fériés Français !
 Gérez la situation !
+
+## GUCCI
+
+GUCCI confie une refonte e-commerce premium. On vise un planning à gros blocs (tâches longues) pour limiter la micro-gestion.
+
+| Tâche | Intitulé                                                     | Durée | Prédécesseurs       |
+| ----- | ------------------------------------------------------------ | ----: | ------------------- |
+| A     | Cadrage stratégique & objectifs (scope, KPIs, priorités)     |    15 | -                   |
+| B     | Discovery unifiée Tech + UX (audits, data, risques)          |    20 | A                   |
+| C     | Architecture cible (app, données, infra)                     |    20 | B                   |
+| D     | Parcours & wireframes des écrans clés                        |    25 | B                   |
+| E     | UI design system & maquettes haute fidélité                  |    30 | D                   |
+| F     | Intégration statique globale (HTML/CSS, composants)          |    20 | E                   |
+| G     | Développement Frontend (PWA, routing, état, i18n)            |    35 | F, C                |
+| H     | Développement Backend (APIs, auth, catalogue, panier)        |    40 | C                   |
+| I     | Checkout & conformité paiement (PSP, 3DS2, PCI light)        |    20 | H                   |
+| J     | Recherche & merchandising (moteur, règles, navigation)       |    15 | H                   |
+| K     | Migration données & catalogue (qualité, mapping, imports)    |    20 | H                   |
+| L     | Performance & accessibilité (CWV, WCAG 2.2 AA priorités)     |    15 | G                   |
+| M     | Sécurité & remédiations (scan, pentest, durcissement)        |    15 | G, H, I             |
+| N     | QA / automatisation & UAT métier                             |    20 | G, H, I, J, K, L, M |
+| O     | CI/CD & préparation déploiement (environnements, monitoring) |    15 | C                   |
+| P     | Go-Live                                                      |     2 | N, O                |
+| Q     | Hypercare & stabilisation                                    |    15 | P                   |

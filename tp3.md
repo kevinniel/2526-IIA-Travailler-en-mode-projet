@@ -54,6 +54,7 @@ Optimisez le projet pour qu'il coûte le moins cher possible, et déterminez le 
 
 Hermès souhaite mettre en place un tunnel de vente simple et rapide pour tester un nouveau produit en ligne.
 L’objectif est de créer un parcours client fluide (landing → produit → paiement), sans complexité technique, en un minimum de temps.
+Le client veut le travail réalisé le plus rapidement possible.
 
 | Tâche | Durée                                     | Prédécesseurs |         |
 | ----- | ----------------------------------------- | ------------- | ------- |

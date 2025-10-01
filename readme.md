@@ -10,6 +10,7 @@
 
 1. <a href="tp1.md" title="Conception de site vitrine">Conception de site vitrine</a>
 2. <a href="tp2.md" title="TP 2 - pratique du PERT">TP 2 - pratique du PERT</a> 
+3. <a href="tp3.md" title="TP 3 - GANTT PROJECT">TP 3 - GANTT PROJECT</a> 
 
 
 ### TRACE

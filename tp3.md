@@ -86,3 +86,8 @@ Cartier souhaite mettre en ligne un mini-catalogue vitrine (quelques produits, s
 | K     | SEO basique (métas, balises, sitemap, schema.org)          |     2 | B, F, G       |
 | L     | Tests & corrections (mobile, perfs légères, formulaires)   |     3 | H, I, J, K    |
 | M     | Mise en ligne mini-catalogue                               |     1 | L             |
+
+## NOUVELLE CONTRAINTE
+
+Les employés se rebellent parce que vous n'avez pas gérer les jours fériés Français !
+Gérez la situation !

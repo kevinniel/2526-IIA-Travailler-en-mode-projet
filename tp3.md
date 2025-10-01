@@ -95,6 +95,7 @@ Gérez la situation !
 ## GUCCI
 
 GUCCI confie une refonte e-commerce premium. On vise un planning à gros blocs (tâches longues) pour limiter la micro-gestion.
+Durée du projet maximale : 14 mois à partir de ce jour.
 
 | Tâche | Intitulé                                                     | Durée | Prédécesseurs       |
 | ----- | ------------------------------------------------------------ | ----: | ------------------- |

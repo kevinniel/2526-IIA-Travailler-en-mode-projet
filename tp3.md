@@ -185,3 +185,5 @@ Clément
 
 Au format PDF, réalisez une présentation "tuto" pour expliquer comment se servir de GanttProject.
 Il est possible de faire un site internet pour cette présentation. Par contre, vous le mettez en ligne avec github pages !
+
+Envoyer moi ça par mail à k.niel.pro@gmail.com

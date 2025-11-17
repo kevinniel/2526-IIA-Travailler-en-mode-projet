@@ -47,7 +47,7 @@ Rappel de l'intérêt de la gestion de projet :
 ### 2. Spécifications fonctionnelles
 
 - Cahier des charges fonctionnel
-- Scénarios d'usages (par les utilisateurs)
+- ✅ Scénarios d'usages (par les utilisateurs)
 - Schémas fonctionnels
 
 ### 3. Spécifications techniques

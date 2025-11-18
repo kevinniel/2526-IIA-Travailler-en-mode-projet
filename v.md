@@ -39,60 +39,60 @@ Rappel de l'intérêt de la gestion de projet :
 
 ### 1. Analyse
 
-- Cahier des charges
-- (ou) Expression des besoins
-- Analyse de l'existant
-- Analyse des risques
+- ❌ Cahier des charges
+- ✅ Expression des besoins
+- ✅ Analyse de l'existant
+- ❓ Analyse des risques
 
 ### 2. Spécifications fonctionnelles
 
-- Cahier des charges fonctionnel
-- ✅ Scénarios d'usages (par les utilisateurs)
-- Schémas fonctionnels
+- ✅ Cahier des charges fonctionnel
+- ✅ Scénarios d'usages (par les utilisateurs) (peuvent être dans le CDC fonctionnel)
+- ❌ Schémas fonctionnels
 
 ### 3. Spécifications techniques
 
-- Cahier des charges technique
-- Analyse de l'existant
-- Choix des technologies et protocoles utilisés
-- Schémas techniques
+- ✅ Cahier des charges technique
+- ❌ Analyse de l'existant
+- ✅ Choix des technologies et protocoles utilisés (peuvent être dans le CDC fonctionnel)
+- ❌ Schémas techniques
 
 ### 4. Spécifications détaillées
 
-- Dossier de conception détaillé (paramètres, scripts, configs, etc...)
-- Schémas / plans de ce qui va être mis en place (définitifs)
-- Documentation des équipements 
-- Scripting 
-- Dossier de procédures
+- ✅ Dossier de conception détaillé (paramètres, scripts, configs, etc...)
+- ❌ Schémas / plans de ce qui va être mis en place (définitifs)
+- ❓ Documentation des équipements 
+- ✅ Scripting 
+- ❓ Dossier de procédures
 
 ### 5. Réalisation
 
-- Documentation de l'installation et de la mise en service (inclu les mdp etc...)
-- Dossier de configuration
-- Journal d'interventions (+ le temps)
+- ✅ Documentation de l'installation et de la mise en service (inclu les mdp etc...)
+- ✅ Dossier de configuration
+- ✅ Journal d'interventions (+ le temps)
 
 ### 6. Tests unitaires
 
-- Plan de test unitaire (on teste chaque élément de manière indépendante - un par un)
-- Compte rendu des tests par unité
-- Rapport d'anomalies
-- Scripts || Automation pour les tests !
+- ✅ Plan de test unitaire (on teste chaque élément de manière indépendante - un par un)
+- ❌ Compte rendu des tests par unité
+- ✅ Rapport d'anomalies
+- ❌ Scripts || Automation pour les tests !
 
 ### 7. Tests d'intégration
 
-- Plan de test d'intégration (on teste tous les éléments ensembles - dans leur enchainement métier)
-- Journal de résultats (= compte rendu) OK/KO
-- Rapport d'intégration (preuve de bon fonctionnement global)
-- Tests de performance
+- ✅ Plan de test d'intégration (on teste tous les éléments ensembles - dans leur enchainement métier)
+- ✅ Journal de résultats (= compte rendu) OK/KO
+- ✅ Rapport d'intégration (preuve de bon fonctionnement global)
+- ❌ Tests de performance
 
 ### 8. Tests de validation
 
-- Cahier de validation fonctionnel 
-- Rapport de validation (preuve que tout fonctionne)
-- Documentation utilisateurs
+- ❌ Cahier de validation fonctionnel 
+- ❌ Rapport de validation (preuve que tout fonctionne)
+- ✅ Documentation utilisateurs
 
 ### 9. Recette
 
-- PV de livraison
-- Guide d'exploitation (sauvegarde, mise à jour, etc...)
-- Plan de maintenance / de supervision
+- ✅ PV de livraison
+- ✅ Guide d'exploitation (sauvegarde, mise à jour, etc...)
+- ❌ Plan de maintenance / de supervision
